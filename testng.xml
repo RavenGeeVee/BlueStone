@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="scripts.Scenario19"/>
+      <class name="scripts.Scenario20"/>
+      <class name="scripts.Scenario21"/>
+      <class name="scripts.Scenario22"/>
+      <class name="scripts.Scenario23"/>
+      <class name="scripts.Scenario24"/>
+      <class name="scripts.Scenario14"/>
+      <class name="scripts.Scenario15"/>
+      <class name="scripts.Scenario16"/>
+      <class name="scripts.Scenario17"/>
+      <class name="scripts.Scenario18"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
